@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 ## Project Structure
 
 ```plaintext
-hotel-management-application/
+pizza-menu/
 │
 ├── index.html                   # Root HTML file for the app
 ├── node_modules                 # Installed dependencies (auto-generated)
