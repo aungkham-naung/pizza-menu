@@ -5,7 +5,6 @@ import Loader from "../ui/Loader";
 
 export default function AppLayout() {
   const navigation = useNavigation();
-  console.log(navigation);
   return (
     <div className="grid h-screen grid-rows-[auto_1fr_auto]">
       {navigation.state === "loading" && <Loader />}
